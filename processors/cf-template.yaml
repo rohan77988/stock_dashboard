@@ -6,7 +6,7 @@ Resources:
     Properties:
       Handler: index.handler
       CodeUri: GetIntradayPrices/
-      Runtime: nodejs10.x
+      Runtime: nodejs18.x
       MemorySize: 256
       Timeout: 120
       Policies:
